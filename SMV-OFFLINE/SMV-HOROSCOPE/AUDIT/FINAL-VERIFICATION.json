@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "offlineCases": 40,
+  "dates": 20,
+  "languages": [
+    "ta",
+    "en"
+  ],
+  "sectionsEach": 9,
+  "applicationLanguageLeaks": 0,
+  "browserErrors": 0,
+  "onlineSmokeCases": 2,
+  "expandedDasaChecks": "PASS",
+  "nativeInputPolicy": "User names, place names and derived initials remain as entered.",
+  "pwa": "Offline reload, local place search, localized prompt instructions, subdirectory scope and responsive widths passed. Native OS installation not exercised.",
+  "sourceChangesDuringRetest": false
+}
